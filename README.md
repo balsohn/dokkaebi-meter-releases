@@ -6,7 +6,7 @@ Windows용 전투 피해량 미터기입니다. 이 저장소는 배포·사용 
 
 [배포 버전 보기](https://github.com/balsohn/dokkaebi-meter-releases/releases)
 
-## 설치
+## 실행
 
 1. [Npcap](https://npcap.com/#download)을 설치합니다. Wireshark·별도 Python 설치는 필요하지 않습니다.
 2. Releases에서 `DokkaebiMeter-Portable.exe` 하나를 받아 실행합니다. 설치 화면이나 압축 해제 작업이 필요하지 않습니다.
